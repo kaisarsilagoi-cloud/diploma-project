@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "name",
-    "password": "password",
-    "database": "name_database",
+    "username": "root",
+    "password": "Kaisar2007",
+    "database": "game-market",
     "host": "127.0.0.1",
-    "dialect": "postgresql"
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
     "password": null,
     "database": "database_test",
     "host": "127.0.0.1",
-    "dialect": "postgresql"
+    "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": null,
     "database": "database_production",
     "host": "127.0.0.1",
-    "dialect": "postgresql"
+    "dialect": "mysql"
   }
 }
